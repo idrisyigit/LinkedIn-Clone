@@ -1,3 +1,4 @@
 # LinkedIn Clone with Bootstrap
-![alt text](assets/Bootstrap%20LinkedIn%20Clone.PNG)
-* Patika.dev link: https://app.patika.dev/yigitmustu
+![](assets/ss.png)
+* [Live Site URL](https://idrisyigit.github.io/LinkedIn-Clone/)
+* [Patika.dev](https://app.patika.dev/yigitmustu)
